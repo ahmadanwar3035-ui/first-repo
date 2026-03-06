@@ -143,7 +143,7 @@
 
 // let colors1 = ["Red", "Green", "Blue", "Yellow", "Pink"];
 // let negativeSlice = colors1.slice(-4,-2)
-// console.log(negativeSlice);
+// console.log(negativeSlice);  
 // console.log(colors1);
 
 // 🔹 Problem 5 — From Middle to End
